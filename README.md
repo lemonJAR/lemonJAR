@@ -1,6 +1,6 @@
 <h1 align="center">Hello Visitor, Im John Anthony Romeo</h1>
 
-# 💫 About Me:
+🔭 I'm currently working on my portfolio
 🌱 I’m currently learning Flutter and React<br>
 
 
